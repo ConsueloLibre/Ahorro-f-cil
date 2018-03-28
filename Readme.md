@@ -86,6 +86,9 @@ Se realizan varias instancias de testeo (5 usuarios) en donde nos han entregado 
 
 
 
+Presentación de nuestro proyecto. 
+
+https://docs.google.com/presentation/d/1AdJe7nqvdbE9MZPT0yEKfWU9AWJ0EJYAtd8QTZyPfqs/edit?usp=sharing
 
 
 
