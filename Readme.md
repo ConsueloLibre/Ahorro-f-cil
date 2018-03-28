@@ -59,7 +59,30 @@ Con eso suerge en nuetra mente.
 ¿Y si pudiese cumplir sus metas casi sin darse cuenta?
 
 
-Con estas preguntas dimos con nuetra hipotesis... ¡Debemos hacer una plataforma 
+Con estas preguntas dimos con nuetra hipotesis... 
+### ¡Debemos hacer una plataforma virtual!
+En donde se puedan modificar patrones cognitivos pra incentivar al ahorro, ¿Como? a través de organización salarial y entregando feedback constante del logro, lo que falta y estimulación visual del que quieres. 
+
+
+### Storytelling
+Esta historia tiene una imagen, una que creamos a través de un user persona, este se llama Sergio.
+
+https://docs.google.com/document/d/19VBiNAyhBX-xBAyA--xbWi7f9AxdEFXg47A1wzDqTS8/edit?usp=sharing
+
+https://docs.google.com/document/d/1fY7a97hkS4u9RuK5RVgtNTUecddSVUsb-MWXIYPz2_c/edit?usp=sharing
+
+### Nuestra hitoria en Youtube
+https://youtu.be/nXui2U-eSw8
+
+
+## Prototipado
+
+El Prototipo fue realizado en Figma  
+https://www.figma.com/proto/VpmBQ22z9Zp02k0x9jdlPTCs/Untitled?node-id=1%3A3&scaling=contain
+
+
+## Testeo
+Se realizan varias instancias de testeo (5 usuarios) en donde nos han entregado un feedback positivo y negativo que nos ha llevado a modificar algunas partes de nuestro sketch interactivo, cómo que ¿Qué es eso de categoría al momento de agregar tu meta? ¿qué es lo que debo ingresar al momento de loguearme? mi nombre? definimos en este caso que es óptimo el registro con tu rut. 
 
 
 
