@@ -32,6 +32,36 @@ Fuimos a observan in situ como se comportan los millennials al realizar trámite
 
 Luego de los tres días de investigación, nos reunimos a analizar los resultados y respuestas en donde descubrimos los patrones que buscábamos y dimos con nuestro insight más importante. 
 
+El 100% de nuestros encuestados (44)  indicaron que ahorrar es una tarea importante para el futuro. 
+
+
+![100](https://user-images.githubusercontent.com/32283943/38060772-967ce488-32c2-11e8-825a-c7df70d07faf.png)
+
+El 47% indicó que no tiene actualmente un plan de ahorro. 
+![47](https://user-images.githubusercontent.com/32283943/38060774-9d29cc38-32c2-11e8-9113-42c5c5d0d7af.png)
+
+### ¡Hey, aqui tenemos algo muy relevante! 
+Con eso suerge en nuetra mente.
+
+## Ideación
+
+### HMW
+¿Cómo podríamos incentivar el ahorro en los millennials?
+¿Cómo podríamos ayudarles a ordenar sus finanzas?
+¿Cómo podríamos ayudarles a cumplir sus objetivos financieros?
+
+### What If
+
+¿Y si creamos un sistema de ahorro que sea 100% personalizado?
+¿Y si nuestro usuario tuviese una motivación constante para recordar sus objetivos financieros?
+¿Y si nuestro usuario no tuviese que preocuparse constantemente por ir a depositar dinero en una cuenta de ahorro?
+¿Y si el sistema de ahorro fuese con una aplicación parecida a las que ocupa constantemente?
+¿Y si pudiese cumplir sus metas casi sin darse cuenta?
+
+
+Con estas preguntas dimos con nuetra hipotesis... ¡Debemos hacer una plataforma 
+
+
 
 
 
