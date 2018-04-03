@@ -1,6 +1,8 @@
 # Ahorro Fácil
 ![ahorro_facil](https://user-images.githubusercontent.com/32283943/38060103-9c7546d0-32bf-11e8-9b84-1eb703e6d66b.png)
 
+## Desarrollado para
+[Laboratoria Chile](https://www.figma.com/proto/VpmBQ22z9Zp02k0x9jdlPTCs/Untitled?node-id=1%3A3&scaling=contain)
 ### Integrantes: 
 Jazmin Meneses Diaz
 Consuelo Acevedo Ceballos
