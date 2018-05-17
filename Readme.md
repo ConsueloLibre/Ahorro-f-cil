@@ -13,37 +13,35 @@ Hemos creado una nueva herramienta digital bancaria  bajo el reto “Diseña una
 ## Investigación 
 
 
-Desarrollamos un plan investigativo, gestionado en los primeros días del proyecto, en donde reunimos evidencia e información, acerca de las percepciones de los millennials, preferencias, proyecciones a futuro y usabilidad de las diversas entidades bancarias y sus plataformas digitales.
+Desarrollamos un plan de reaserch pensado en los primeros días del proyecto, en donde reunimos evidencia e información, acerca de las percepciones de los millennials, las llevamos a una validación cunatitativa, descubrimos preferencias, proyecciones a futuro y conocimos como funcionaban los diferentes modelos de negocios asociados a diversas entidades bancarias y como sus plataformas digitales entregan valor agregado.
 
 ¿Como?
 
 ### La encuesta on line
-Dirigida a personas bancarizadas y no bancarizadas, además que se manejaran en plataformas digitalles. 
+Dirigida a jovenes hasta 35 años que se encontraran bancarizados y a quienes no, en ambos casos con manejo de plataformas virtuales. 
+El foco, dar con patrones que nos hicieran encontrar una problemática en torno a la experiencia global, un insight, mood, feeling y desencadenadores de situaciones.
 
-Siempre en el foco de dar con patrones que nos hagan encontrar un insight, y definir la problemática en torno a la experiencia global los mood, feeling y desencadenadores de situaciones.
-
-¿Cuales han sido las motivaciones que los llevan a hacerse cliente de un banco? ¿se cumplen y las expectativas respecto a la entidad?  
+Dentro del listado de preguntas que deseabamos tener respuesta se encontraban:  Descubrir motivaciones que los llevan a hacerse cliente de un banco y si en definitiva se cumplen las expectativas respecto a la entidad. ¿Se cumple el cometido? 
  Aqui la encuesta en si https://goo.gl/forms/G39BY5Tu5BSV6guG3
 
 ### Observación
-Fuimos a observan in situ como se comportan los millennials al realizar trámites bancarios y descubrir trámites que  los llevan a dirigirse presencialmente. 
+Fuimos a observan in situ como se comportan los millennials al realizar trámites bancarios y descubrir cual es el motivo que los llevan a concurrir presencialmente. 
 
 
 ## Sintesis y definición
 
+Luego de los tres días de investigación, nos reunimos a analizar los resultados y a obtener respuestas en donde descubrimos patrones que no ayudo a dar con el insight más importante de la investigación. 
 
-Luego de los tres días de investigación, nos reunimos a analizar los resultados y respuestas en donde descubrimos los patrones que buscábamos y dimos con nuestro insight más importante. 
-
-El 100% de nuestros encuestados (44)  indicaron que ahorrar es una tarea importante para el futuro. 
+El 100% de nuestros encuestados afirmaron que ahorrar es una tarea importante para el futuro. 
 
 
 ![100](https://user-images.githubusercontent.com/32283943/38060772-967ce488-32c2-11e8-825a-c7df70d07faf.png)
 
-El 47% indicó que no tiene actualmente un plan de ahorro. 
+El 47% actualmente no cuenta con un plan de ahorro. 
 ![47](https://user-images.githubusercontent.com/32283943/38060774-9d29cc38-32c2-11e8-9113-42c5c5d0d7af.png)
 
 ### ¡Hey, aqui tenemos algo muy relevante! 
-Con eso suerge en nuetra mente.
+Con eso nuestra mente se pregunta.
 
 ## Ideación
 
@@ -56,14 +54,11 @@ Con eso suerge en nuetra mente.
 
 ¿Y si creamos un sistema de ahorro que sea 100% personalizado?
 ¿Y si nuestro usuario tuviese una motivación constante para recordar sus objetivos financieros?
-¿Y si nuestro usuario no tuviese que preocuparse constantemente por ir a depositar dinero en una cuenta de ahorro?
-¿Y si el sistema de ahorro fuese con una aplicación parecida a las que ocupa constantemente?
 ¿Y si pudiese cumplir sus metas casi sin darse cuenta?
 
 
-Con estas preguntas dimos con nuetra hipotesis... 
-### ¡Debemos hacer una plataforma virtual!
-En donde se puedan modificar patrones cognitivos pra incentivar al ahorro, ¿Como? a través de organización salarial y entregando feedback constante del logro, lo que falta y estimulación visual del que quieres. 
+### La hipotesis... ¡Debemos hacer una plataforma virtual de ahorro!
+En donde se puedan modificar patrones cognitivos La reestructuración cognitiva (RC) es una técnica utilizada para identificar y corregir estos patrones de pensamiento. El objetivo es modificar el modo en el que interpretamos nuestras experiencias,(el uso del dinero) para incentivar al ahorro, ¿Como? a través de la personalización de objetivos, organización salarial y entregando feedback constante del logro, lo que falta y estimulación visual para capturar la atención a través de la motivación. 
 
 
 ### Storytelling
@@ -77,14 +72,12 @@ https://docs.google.com/document/d/1fY7a97hkS4u9RuK5RVgtNTUecddSVUsb-MWXIYPz2_c/
 https://youtu.be/nXui2U-eSw8
 
 
-## Prototipado
+##Wireframe testeo en usuarios y Prototipado.
+
+Luego de crear nuetro wireframe en vistas en papel se realizaron varias pruebas con usuarios (5) en donode validamos nuestra idea y se nos entrega un feedback negativo en base a algunas conexiones del user flow que tuvimos que modificar y en el formulario de registro, lo que nos fue muy util al momento de crear el prototipo. 
 
 El Prototipo fue realizado en Figma  
 https://www.figma.com/proto/VpmBQ22z9Zp02k0x9jdlPTCs/Untitled?node-id=1%3A3&scaling=contain
-
-
-## Testeo
-Se realizan varias instancias de testeo (5 usuarios) en donde nos han entregado un feedback positivo y negativo que nos ha llevado a modificar algunas partes de nuestro sketch interactivo, cómo que ¿Qué es eso de categoría al momento de agregar tu meta? ¿qué es lo que debo ingresar al momento de loguearme? mi nombre? definimos en este caso que es óptimo el registro con tu rut. 
 
 
 
